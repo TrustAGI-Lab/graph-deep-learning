@@ -32,12 +32,12 @@ This repository summarises the open source code of our group, mostly on graph le
   - [[Python Implementation]](https://github.com/nnzhan/Graph-WaveNet)  
   
   
- - **Adversarially regularized graph autoencoder for graph embedding (IJCAI 2018)**
+- **Adversarially regularized graph autoencoder for graph embedding (IJCAI 2018)**
   - Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang
   - [[Paper]](https://shiruipan.github.io/publication/pan-adversarially-2018/)
   - [[Python Implementation]](https://github.com/Ruiqi-Hu/ARGA) 
   
- - **Binarized attributed network embedding (ICDM 2018)**
+- **Binarized attributed network embedding (ICDM 2018)**
   - Hong Yang, Shirui Pan, Peng Zhang, Ling Chen, Defu Lian, Chengqi Zhang
   - [[Paper]](https://shiruipan.github.io/publication/yang-binarized-2018/)
   - [[Matlab Implementation]](https://github.com/shiruipan/BANE) 
@@ -49,8 +49,18 @@ This repository summarises the open source code of our group, mostly on graph le
   - [[Matlab Implementation]](https://github.com/FakeTibbers/MGAE) 
 
 - **Tri-party deep network representation (IJCAI 2016)**
-  - Chun Wang, Shirui Pan, Guodong Long, Xingquan Zhu, Jing Jiang
+  - Shirui Pan, Jia Wu, Xingquan Zhu, Chengqi Zhang, Yang Wang
   - [[Paper]](https://shiruipan.github.io/publication/pan-tri-party-2016/)
   - [[Python Implementation]](https://github.com/shiruipan/TriDNR) 
 
- 
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
