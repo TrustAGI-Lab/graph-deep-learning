@@ -4,9 +4,9 @@ This repository summarises the open source codes of our group, mostly on graph l
 ## Graph Learning & Deep Learning
 
 - **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks (KDD 2020)**
- - Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang
- - [[Paper]](https://shiruipan.github.io/publication/kdd-2020-wu/)
- - [[Python Implementation]](https://github.com/nnzhan/MTGNN)
+  - Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang
+  - [[Paper]](https://shiruipan.github.io/publication/kdd-2020-wu/)
+  - [[Python Implementation]](https://github.com/nnzhan/MTGNN)
 
 - **GSSNN: Graph Smoothing Splines Neural Network (AAAI 2020)**
   - Shichao Zhu, Lewei Zhou, Shirui Pan, Chuan Zhou, Guiying Yan, Bin Wang 
@@ -26,7 +26,7 @@ This repository summarises the open source codes of our group, mostly on graph l
   - [[Python Implementation]](https://github.com/CheriseZhu/RSHN)
   
   
- - **Graph WaveNet for Deep Spatial-Temporal Graph Modeling (IJCAI 2019)**
+- **Graph WaveNet for Deep Spatial-Temporal Graph Modeling (IJCAI 2019)**
   - Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang
   - [[Paper]](https://shiruipan.github.io/publication/ijcai-2019-wu/)
   - [[Python Implementation]](https://github.com/nnzhan/Graph-WaveNet)  
