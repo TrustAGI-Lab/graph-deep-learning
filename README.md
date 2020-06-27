@@ -3,7 +3,7 @@ This repository summarises the open source codes of our group, mostly on graph l
 
 ## Graph Learning & Deep Learning
 
- - **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks (KDD 2020)**
+- **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks (KDD 2020)**
  - Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang
  - [[Paper]](https://shiruipan.github.io/publication/kdd-2020-wu/)
  - [[Python Implementation]](https://github.com/nnzhan/MTGNN)
