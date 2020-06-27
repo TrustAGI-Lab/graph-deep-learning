@@ -1,5 +1,5 @@
 # graph-deep-learning
-This repository summarises the open source codes of our group, mostly on graph learning & deep learning.
+This repository summarises the open source code of our group, mostly on graph learning & deep learning. More source code will be released as it is ready for publishing.
 
 ## Graph Learning & Deep Learning
 
@@ -32,9 +32,25 @@ This repository summarises the open source codes of our group, mostly on graph l
   - [[Python Implementation]](https://github.com/nnzhan/Graph-WaveNet)  
   
   
+ - **Adversarially regularized graph autoencoder for graph embedding (IJCAI 2018)**
+  - Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang
+  - [[Paper]](https://shiruipan.github.io/publication/pan-adversarially-2018/)
+  - [[Python Implementation]](https://github.com/Ruiqi-Hu/ARGA) 
   
-  
+ - **Binarized attributed network embedding (ICDM 2018)**
+  - Hong Yang, Shirui Pan, Peng Zhang, Ling Chen, Defu Lian, Chengqi Zhang
+  - [[Paper]](https://shiruipan.github.io/publication/yang-binarized-2018/)
+  - [[Matlab Implementation]](https://github.com/shiruipan/BANE) 
+  - [[Python Reference]](https://github.com/benedekrozemberczki/BANE) 
 
-  
-  
+- **MGAE: marginalized graph autoencoder for graph clustering (CIKM 2017)**
+  - Chun Wang, Shirui Pan, Guodong Long, Xingquan Zhu, Jing Jiang
+  - [[Paper]](https://shiruipan.github.io/publication/wang-mgae-2017/)
+  - [[Matlab Implementation]](https://github.com/FakeTibbers/MGAE) 
 
+- **Tri-party deep network representation (IJCAI 2016)**
+  - Chun Wang, Shirui Pan, Guodong Long, Xingquan Zhu, Jing Jiang
+  - [[Paper]](https://shiruipan.github.io/publication/pan-tri-party-2016/)
+  - [[Python Implementation]](https://github.com/shiruipan/TriDNR) 
+
+ 
