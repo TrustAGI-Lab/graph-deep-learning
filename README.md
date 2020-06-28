@@ -7,6 +7,13 @@ This repository summarises the open source code of our group, mostly on graph le
   - Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang
   - [[Paper]](https://shiruipan.github.io/publication/kdd-2020-wu/)
   - [[Python Implementation]](https://github.com/nnzhan/MTGNN)
+  
+- **Unsupervised Domain Adaptive Graph Convolutional Networks (WWW 2020)**
+  - Man Wu, Shirui Pan, Chuan Zhou, Xiaojun Chang, Xingquan Zhu
+  - [[Paper]](https://shiruipan.github.io/publication/www-2020-wu/)
+  - [[Python Implementation]](https://github.com/mandy976/UDAGCN) 
+  
+ Man Wu, Shirui Pan, Chuan Zhou, Xiaojun Chang, Xingquan Zhu (2020). Unsupervised Domain Adaptive Graph Convolutional Networks. The Web Conference 2020, WWW-20.
 
 - **GSSNN: Graph Smoothing Splines Neural Network (AAAI 2020)**
   - Shichao Zhu, Lewei Zhou, Shirui Pan, Chuan Zhou, Guiying Yan, Bin Wang 
