@@ -13,8 +13,6 @@ This repository summarises the open source code of our group, mostly on graph le
   - [[Paper]](https://shiruipan.github.io/publication/www-2020-wu/)
   - [[Python Implementation]](https://github.com/mandy976/UDAGCN) 
   
- Man Wu, Shirui Pan, Chuan Zhou, Xiaojun Chang, Xingquan Zhu (2020). Unsupervised Domain Adaptive Graph Convolutional Networks. The Web Conference 2020, WWW-20.
-
 - **GSSNN: Graph Smoothing Splines Neural Network (AAAI 2020)**
   - Shichao Zhu, Lewei Zhou, Shirui Pan, Chuan Zhou, Guiying Yan, Bin Wang 
   - [[Paper]](https://shiruipan.github.io/publication/aaai-2020-zhu)
