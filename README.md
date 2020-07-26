@@ -8,6 +8,11 @@ This repository summarises the open source code of our group, mostly on graph le
   - [[Paper]](https://shiruipan.github.io/publication/kdd-2020-wu/)
   - [[Python Implementation]](https://github.com/nnzhan/MTGNN)
   
+- **Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization (CVPR 2020)**
+  - Miao Zhang, Huiqi Li, Shirui Pan, Xiaojun Chang, Steven Su
+  - [[Paper]](https://shiruipan.github.io/publication/cvpr-2020-zhang/)
+  - [[Python Implementation]](https://github.com/MiaoZhang0525/NSAS_FOR_CVPR)
+  
 - **Unsupervised Domain Adaptive Graph Convolutional Networks (WWW 2020)**
   - Man Wu, Shirui Pan, Chuan Zhou, Xiaojun Chang, Xingquan Zhu
   - [[Paper]](https://shiruipan.github.io/publication/www-2020-wu/)
