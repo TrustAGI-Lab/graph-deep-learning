@@ -3,6 +3,26 @@ This repository summarises the open source code of our group, mostly on graph le
 
 ## Graph Learning & Deep Learning
 
+- **One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting (NeurIPS 2020)**
+  - Miao Zhang, Huiqi Li, Shirui Pan, Xiaojun Chang, Chuan Zhou, Zongyuan Ge, Steven Su
+  - [[Paper]](https://shiruipan.github.io/publication/tpami-20-zhang/)
+  - [[Python Implementation]](https://github.com/MiaoZhang0525/NSAS_FOR_CVPR)
+
+- **Graph Stochastic Neural Networks for Semi-supervised Learning (NeurIPS 2020)**
+  - Haibo Wang, Chuan Zhou, Xin Chen, Jia Wu, Shirui Pan, Jilong Wang
+  - [[Paper]](https://shiruipan.github.io/publication/neurips-20-wang/)
+  - [[Python Implementation]](https://github.com/GSNN/GSNN)
+  
+- **Graph Geometry Interaction Learning (NeurIPS 2020)**
+  - Shichao Zhu, Shirui Pan, Chuan Zhou, Jia Wu, Yanan Cao, Bin Wang
+  - [[Paper]](https://shiruipan.github.io/publication/neurips-20-zhu/)
+  - [[Python Implementation]](https://github.com/CheriseZhu/GIL)
+  
+- **Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement (NeurIPS 2020)**
+  - Miao Zhang, Huiqi Li, Shirui Pan, Xiaojun Chang, Zongyuan Ge, Steven Su
+  - [[Paper]](https://shiruipan.github.io/publication/neurips-20-zhang/)
+  - [[Python Implementation]](https://github.com/MiaoZhang0525/EENAS_for_NeurIPS2020)
+
 - **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks (KDD 2020)**
   - Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang
   - [[Paper]](https://shiruipan.github.io/publication/kdd-2020-wu/)
