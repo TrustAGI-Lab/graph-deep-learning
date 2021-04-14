@@ -3,6 +3,11 @@ This repository summarises the open source code of our group, mostly on graph le
 
 ## Graph Learning & Deep Learning
 
+- **Open-World Graph Learning (ICDM 2020)**
+  - Man Wu, Shirui Pan, Xingquan Zhu
+  - [[Paper]](https://shiruipan.github.io/publication/icdm-20-wu/)
+  - [[Python Implementation]](https://github.com/mandy976/OpenWGL)
+
 - **One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting (TPAMI 2020)**
   - Miao Zhang, Huiqi Li, Shirui Pan, Xiaojun Chang, Chuan Zhou, Zongyuan Ge, Steven Su
   - [[Paper]](https://shiruipan.github.io/publication/tpami-20-zhang/)
