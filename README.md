@@ -3,6 +3,11 @@ This repository summarises the open source code of our group, mostly on graph le
 
 ## Graph Learning & Deep Learning
 
+- **Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning (TNNLS 2021)**
+  - Yixin Liu, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis
+  - [[Paper]](https://shiruipan.github.io/publication/tnnls-21-liu/)
+  - [[Python Implementation]](https://github.com/GRAND-Lab/CoLA)
+
 - **Open-World Graph Learning (ICDM 2020)**
   - Man Wu, Shirui Pan, Xingquan Zhu
   - [[Paper]](https://shiruipan.github.io/publication/icdm-20-wu/)
