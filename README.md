@@ -1,5 +1,5 @@
 # graph-deep-learning
-This repository summarises the open source code of our group, mostly on graph learning & deep learning. More source code will be released as it is ready for publishing.
+This page summarises the open source code of our group, mostly on graph learning & deep learning. More source code will be released as it is ready for publishing. You can visit your [GRAND Lab page on Github](https://github.com/GRAND-Lab) for more details. 
 
 ## Graph Learning & Deep Learning
 
