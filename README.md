@@ -3,6 +3,11 @@ This page summarises the open source code of our group, mostly on graph learning
 
 ## Graph Learning & Deep Learning
 
+- **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning (IJCAI 2021)**
+  - Ming Jin, Yizhen Zheng, Yuan-Fang Li, Chen Gong, Chuan Zhou, Shirui Pan
+  - [[Paper]](https://shiruipan.github.io/publication/ijcai-2021-jin/)
+  - [[Python Implementation]](https://github.com/GRAND-Lab/MERIT)
+
 - **Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning (TNNLS 2021)**
   - Yixin Liu, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis
   - [[Paper]](https://shiruipan.github.io/publication/tnnls-21-liu/)
