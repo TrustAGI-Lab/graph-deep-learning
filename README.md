@@ -8,6 +8,11 @@ This page summarises the open source code of our group, mostly on graph learning
   - [[Paper]](https://shiruipan.github.io/publication/ijcai-2021-jin/)
   - [[Python Implementation]](https://github.com/GRAND-Lab/MERIT)
 
+- **ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning (CIKM 2021)**
+  - Ming Jin, Yixin Liu, Yu Zheng, Lianhua Chi, Yuan-Fang Li, Shirui Pan
+  - [[Paper]](https://shiruipan.github.io/publication/cikm-21-jin/)
+  - [[Python Implementation]](https://github.com/GRAND-Lab/ANEMONE)
+
 - **Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning (TNNLS 2021)**
   - Yixin Liu, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis
   - [[Paper]](https://shiruipan.github.io/publication/tnnls-21-liu/)
