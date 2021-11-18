@@ -8,6 +8,12 @@ This page summarises the open source code of our group, mostly on graph learning
   - [[Paper]](https://shiruipan.github.io/publication/ijcai-2021-jin/)
   - [[Python Implementation]](https://github.com/GRAND-Lab/MERIT)
 
+- **Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning
+ (AAAI 2021)**
+  - Sheng Wan, Shirui Pan, Jian Yang, Chen Gong
+  - [[Paper]](https://shiruipan.github.io/publication/aaai-2021-wan/)
+  - [[Python Implementation]](https://github.com/LEAP-WS/CG3)
+
 - **ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning (CIKM 2021)**
   - Ming Jin, Yixin Liu, Yu Zheng, Lianhua Chi, Yuan-Fang Li, Shirui Pan
   - [[Paper]](https://shiruipan.github.io/publication/cikm-21-jin/)
