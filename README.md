@@ -3,6 +3,16 @@ This page summarises the open source code of our group, mostly on graph learning
 
 ## Graph Learning & Deep Learning
 
+- **Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination (NeurIPS 2022)**
+  - Yizhen Zheng, Shirui Pan, Vincent Lee, Yu Zheng, Philip S. Yu
+  - [[Paper]](https://shiruipan.github.io/publication/neurips-22-zheng/)
+  - [[Python Implementation]](https://github.com/zyzisastudyreallyhardguy/Graph-Group-Discrimination)
+
+- **Towards Unsupervised Deep Graph Structure Learning (WWW 2022)**
+  - Yixin Liu, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan
+  - [[Paper]](https://arxiv.org/abs/2201.06367)
+  - [[Python Implementation]](https://github.com/GRAND-Lab/SUBLIME)
+
 - **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning (IJCAI 2021)**
   - Ming Jin, Yizhen Zheng, Yuan-Fang Li, Chen Gong, Chuan Zhou, Shirui Pan
   - [[Paper]](https://shiruipan.github.io/publication/ijcai-2021-jin/)
