@@ -8,10 +8,25 @@ This page summarises the open source code of our group, mostly on graph learning
   - [[Paper]](https://shiruipan.github.io/publication/neurips-22-zheng/)
   - [[Python Implementation]](https://github.com/zyzisastudyreallyhardguy/Graph-Group-Discrimination)
 
+- **Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs (NeurIPS 2022)**
+  - Ming Jin, Yuan-Fang Li, Shirui Pan
+  - [[Paper]](https://mingjin.dev/assets/pdf/neurips-22-jin.pdf)
+  - [[Python Implementation]](https://github.com/KimMeen/Neural-Temporal-Walks)
+
+- **Unifying Graph Contrastive Learning with Flexible Contextual Scopes (ICDM 2022)**
+  - Yizhen Zheng, Yu Zheng, Xiaofei Zhou, Chen Gong, Vincent CS Lee, Shirui Pan
+  - [[Paper]](https://arxiv.org/abs/2210.08792)
+  - [[Python Implementation]](https://github.com/zyzisastudyreallyhardguy/UGCL)
+
 - **Towards Unsupervised Deep Graph Structure Learning (WWW 2022)**
   - Yixin Liu, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan
   - [[Paper]](https://arxiv.org/abs/2201.06367)
   - [[Python Implementation]](https://github.com/GRAND-Lab/SUBLIME)
+
+- **Beyond Low-pass Filtering: Graph Convolutional Networks with Automatic Filtering (TKDE 2022)**
+  - Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang
+  - [[Paper]](https://arxiv.org/abs/2107.04755)
+  - [[Python Implementation]](https://github.com/nnzhan/AutoGCN)
 
 - **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning (IJCAI 2021)**
   - Ming Jin, Yizhen Zheng, Yuan-Fang Li, Chen Gong, Chuan Zhou, Shirui Pan
